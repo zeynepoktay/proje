@@ -1,0 +1,43 @@
+body{
+	background-image:url('wuwu.png');
+	background-color:#363636;
+	margin:50px;
+	padding-left:50px;
+	background-repeat:repeat-y;
+	
+}
+.yonetici{
+	border-style:double;
+	border-color:black;
+	border-width:25px;
+	border:400px;
+	margin:200px 100px 200px 950px;
+	position:relative;
+	width:100%;
+	min-height:2px;
+	padding-right:15px;
+	padding-left:15px;
+	display:flex;
+	flex-direction:column;
+}
+.adminlabel{
+	color:#e74364;
+	font-size:30px;
+	align-items:center;
+	
+}
+#eposta{
+	font-size:15px;
+	margin-top:20px;
+	
+}
+#sifre{
+	font-size:15px;
+	margin-top:20px;
+}
+#giris{
+	margin-left:260px;
+	margin-top:25px;
+	font-size:20px;
+	background-color:#434be7;
+}
